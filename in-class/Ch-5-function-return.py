@@ -20,9 +20,9 @@ def main():  # Scope of the main program logic
 
     print("Another volume {0:.3f}".format(cylinder_volume(23, 55)))
 
-    hours_worked = eval(input("hours worked: "))
-    pay_rate = eval(input("Your pay rate: "))
-    print("Your gross pay is: {0:.2f}".format(calculate_gross_pay(hours_worked, pay_rate)))
+    # hours_worked = eval(input("hours worked: "))
+    # pay_rate = eval(input("Your pay rate: "))
+    print("Your gross pay is: {0:.2f}".format(calculate_gross_pay(40, 15)))  # (hours_worked, pay_rate)))
 
 
 # write another function that calculates the gross pay
@@ -31,8 +31,7 @@ def main():  # Scope of the main program logic
 # call the function in main and print the value
 
 def calculate_gross_pay(hours, rate):
-    gross_pay = rate * hours
-    return gross_pay
+    return rate * hours
     # print("Your gross pay is {0:.2f}".format(gross_pay))
 
 
