@@ -23,5 +23,5 @@ if tr1Area == tr2Area:
     print("The two triangles have a equal size")  # print out the result
 elif tr1Area > tr2Area:
     print("The first triangle is larger than the second triangle")  # print out the result
-elif tr1Area < tr2Area:
+else:
     print("The second triangle is larger than the first triangle")  # print out the result
