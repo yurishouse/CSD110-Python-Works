@@ -57,5 +57,18 @@ numbers = [15, 23, 45, 34, 22, 66, 87, 54, 9, 10]
 result = 0
 for total in numbers:
     result += total
-print(result)
 
+print("Total value in", numbers, "is", result)
+
+# Execrise 2
+"""
+Define a list of 5 items each set to 0 and populate it with user input
+
+"""
+
+integers = [0] * 5
+
+for i in range(5):
+    integers[i] = eval(input("Enter a int value: "))
+
+print(integers)
