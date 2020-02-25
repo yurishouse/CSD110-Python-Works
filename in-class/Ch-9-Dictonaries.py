@@ -58,13 +58,45 @@ worldCapital = {
     'China': 'Beijing',
     'US': 'New York',
     'England': "London",
-    'Japan': 'Tokyo'
-    
+    'Japan': 'Tokyo',
+    'France': 'Paris'
 }
 for c, ci in worldCapital.items():
     print(c, ci, sep=' : ')
 
+# Remove a item from a dictionary
+del worldCapital['China']
 
+print(worldCapital)
 
+# clear everything from a dictionary
+# worldCapital.clear()
+# print(worldCapital)
 
+# To access an item in the dictionary
 
+# Better way (No key error)
+
+print("I'm currently in", worldCapital.get('US'))
+
+# list the values in dictionary
+
+print(worldCapital.values())
+
+# randomly pop an item
+
+print(worldCapital.popitem())
+print(worldCapital)
+
+"""
+Write python code to request course title from a user given a list of courses that you're  
+taking or a part of your program plan and populate a dictionary with the data
+
+"""
+
+courses = ['CSD110', 'CSD112', "PSYC100", "SOCL100", "CMST100"]
+description = {}
+for classes in courses:
+    info = input("input the class info for {0:} here: ".format(classes))
+    description[classes] = info
+print(description)
