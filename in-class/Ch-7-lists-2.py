@@ -10,7 +10,7 @@ sub_numbers = numbers[2:7]  # Create a sublist 2-6
 
 print(sub_numbers)
 
-# the "in" operaator
+# the "in" operator
 # we use it in a loop to go over all elements
 # we also use in if statement to check if the itemlist
 # contains an item / element

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="679d375f-3495-467a-8b7b-785cc0f59d92" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homeworks/Asm-5-P1-Weather-Report.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/Asm-5-P1-Weather-Report.py" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/Asm-5-P1-Weather-Report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/in-class/Ch-7-lists-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/in-class/Ch-7-lists-2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ch-7-matplot-library" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ch-7-lists-2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSD110-Python-Works" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/in-class/Ch-7-matplot-library.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/in-class/Ch-7-lists-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,10 +144,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Asm-5-P1-Weather-Report" />
+        <item itemvalue="Python.Ch-7-lists-2" />
         <item itemvalue="Python.Ch-9-Dictonaries" />
         <item itemvalue="Python.Ch-7-Pie-chart (1)" />
         <item itemvalue="Python.Ch-7-Pie-chart" />
-        <item itemvalue="Python.Ch-7-matplot-library" />
       </list>
     </recent_temporary>
   </component>
@@ -175,22 +176,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="422" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582234484149" />
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1582671070098">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1582683079800">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582671070098" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1582671070097">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582683079800" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1582683079800">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582671070097" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1582671070097">
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582683079800" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1582683079800">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582671070097" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1582671070098">
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582683079800" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1582683079800">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582671070098" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582683079800" />
     <state x="150" y="0" key="SettingsEditor" timestamp="1582235889942">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -199,5 +200,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="343" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1581841556608" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1582674278257">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582674278257" />
   </component>
 </project>
