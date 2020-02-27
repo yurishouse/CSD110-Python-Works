@@ -48,8 +48,10 @@ print(setA)
 
 numbers = set()
 keep = True
-
+"""
 while keep:
     numbers.add(eval(input('Enter a number to the set: ')))
     keep = eval(input("continue? True/False"))
 print(numbers)
+"""
+
