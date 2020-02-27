@@ -1,5 +1,5 @@
 # Created by Zhongli Liang
-from matplotlib.pyplot import *
+from matplotlib.pyplot import *  #
 
 
 def index_cold_day(o_temp, day):
