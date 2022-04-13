@@ -1,4 +1,4 @@
-# Made by Zhongli Liang
+# Made by Shiina Yuri
 
 
 def calculate_mass(mass):  # Create function calculate_mass with the formula

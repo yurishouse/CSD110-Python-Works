@@ -1,4 +1,4 @@
-# Made by Zhongli Liang
+# Made by Shiina Yuri
 
 
 sentence = input('Enter some words here: ')  # Let user input a string

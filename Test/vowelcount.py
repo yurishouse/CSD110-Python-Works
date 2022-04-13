@@ -1,4 +1,4 @@
-# Made by Zhongli Liang
+# Made by Shiina Yuri
 def numbers_total(num):  # Defines numbers_total method
     total = 0  # local variable
     for i in range(len(num)):  # Loop through each character

@@ -1,4 +1,4 @@
-# Created by Zhongli Liang
+# Created by Shiina Yuri
 from matplotlib.pyplot import *  # import the graph function of the matplotlib
 
 

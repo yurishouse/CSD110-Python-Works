@@ -1,4 +1,4 @@
-# Made by Zhongli Liang
+# Made by Shiina Yuri
 
 
 def calculate_mpg(miles, gallon):  # Create function calculate_mpg with the formula

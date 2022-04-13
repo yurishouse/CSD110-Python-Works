@@ -1,4 +1,4 @@
-# Made by Zhongli Liang
+# Made by Shiina Yuri
 
 mile = eval(input("Please input the miles you've driven: "))  # ask user to input the miles
 gal = eval(input("Please input the gallons of gas used: "))  # ask the user to input gallon of gas used

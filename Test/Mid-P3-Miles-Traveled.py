@@ -1,4 +1,4 @@
-# Made by Zhongli Liang
+# Made by Shiina Yuri
 
 sp = eval(input("What is the speed of the vehicle in mph? : "))  # Ask the user to input the speed of the vehicle
 hours = eval(input("How many hours has it traveled? : "))  # Ask the user to input the hours traveled

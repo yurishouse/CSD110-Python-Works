@@ -1,4 +1,4 @@
-# Made by Zhongli Liang
+# Made by Shiina Yuri
 
 # Let the user input the base and height of the first triangle
 # creates tr1Bse / tr1Height

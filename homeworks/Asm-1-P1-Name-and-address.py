@@ -1,4 +1,4 @@
-# Made by Zhongli Liang
+# Made by Shiina Yuri
 
 # Ask the user to input the name, creates name variable
 name = input("Please input your name here: ")

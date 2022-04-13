@@ -1,4 +1,4 @@
-# Made by Zhongli Liang
+# Made by Shiina Yuri
 
 mass = eval(input("Please input the mass of the object in kilograms: "))  # ask the user to input the mass
 

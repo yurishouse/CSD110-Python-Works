@@ -1,4 +1,4 @@
-# Made by Zhongli Liang
+# Made by Shiina Yuri
 
 string = input("Input Sentence in ALL CAPS:")  # Let user input the sentence, save it as a string
 

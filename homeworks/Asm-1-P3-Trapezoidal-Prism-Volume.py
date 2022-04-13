@@ -1,4 +1,4 @@
-# Created by Zhongli Liang
+# Created by Shiina Yuri
 
 # Ask user to enter Length, Height, Base Width, and Top Width values, store them in variables.
 

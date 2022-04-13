@@ -1,4 +1,4 @@
-# Made by Zhongli Liang
+# Made by Shiina Yuri
 
 # Ask the User to input the weight
 # creates weight variable

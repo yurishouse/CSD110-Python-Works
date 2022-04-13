@@ -1,4 +1,4 @@
-# Made by Zhongli Liang
+# Made by Shiina Yuri
 
 # Let the user input the current temp in Fahrenheit, and creates fTemp variable
 fTemp = eval(input("Please input the current temperature (Fahrenheit): "))
